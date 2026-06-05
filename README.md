@@ -18,5 +18,6 @@ Tool holder is mounted on original back extusion (2020). It is adjistable in Z a
 <img width="945" height="359" alt="Tools" src="https://github.com/user-attachments/assets/c403cf08-1594-4451-9469-3ae239a07226" />
 
 It is necessary to replace front idelers, because X extrusion have to fit between it.
+I use https://github.com/selliott79/Other-V2-Idlers
 
 Wires are managed with original X axis clable chain between buttom rack and back gantry extrusion (form buttom side).
