@@ -9,6 +9,7 @@ Y endstop switch is moved to front right Z bearing block
 <img width="639" height="573" alt="Z Bearing block - Y endstop" src="https://github.com/user-attachments/assets/4f26a70b-de4a-4a90-b9ca-5c3d14d04d65" />
 
 X endstop is on the X-carriage
+
 <img width="693" height="625" alt="X-carriage" src="https://github.com/user-attachments/assets/3909c795-460f-4523-9931-f1ac81de0b9f" />
 
 
