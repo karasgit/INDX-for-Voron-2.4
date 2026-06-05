@@ -14,6 +14,9 @@ X endstop is on the X-carriage
 
 
 Tool holder is mounted on original back extusion (2020). It is adjistable in Z axis +-1.5 mm. It is possible to mount 8 tools with 36 mm distance between tools or 7 tools vith 40 mm distance.
+<img width="945" height="638" alt="adjustable" src="https://github.com/user-attachments/assets/59e9117d-da13-47b4-bbcc-a00112c2ae54" />
+<img width="945" height="359" alt="Tools" src="https://github.com/user-attachments/assets/c403cf08-1594-4451-9469-3ae239a07226" />
+
 It is necessary to replace front idelrs, because X extrusion have to fit between it.
 
 Wires are managed with original X axis clable chain between buttom rack and back gantry extrusion (form buttom side).
