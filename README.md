@@ -14,7 +14,7 @@ X end stop is on the X-carriage
 <img width="693" height="625" alt="X-carriage" src="https://github.com/user-attachments/assets/3909c795-460f-4523-9931-f1ac81de0b9f" />
 
 
-Tool holder is mounted on original back extrusion (2020). It is adjustable in Z axis +-1.5 mm. It is possible to mount 8 tools with 36 mm distance between tools or 7 tools with 40 mm distance. 
+Tool holder is mounted on original back extrusion (2020). It is adjustable in Z axis +-1.5 mm. It is possible to mount max. 8 tools with 36 mm distance between tools or 7 tools with 40 mm or 7 tools with 42 mm distance. 
 <img width="945" height="638" alt="adjustable" src="https://github.com/user-attachments/assets/59e9117d-da13-47b4-bbcc-a00112c2ae54" />
 <img width="945" height="359" alt="Tools" src="https://github.com/user-attachments/assets/c403cf08-1594-4451-9469-3ae239a07226" />
 
