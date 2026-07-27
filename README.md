@@ -1,4 +1,4 @@
-<b style="color:red;">!!!!!! Whole design wasn't tested yet, so I'm not sure if it will really work !!!!!!</b>
+<b style="color:red;"> I already build one printer with this design and did some adjustments. I recommend to use 42 mm tool distance, X-carriage V2 and screwless Y endstop - Z bearing block.  </b>
 
 This repository contains 3d printable models of parts needed to use Bondtech INDX on Voron 2.4 with rear mount 
 <img width="1140" height="552" alt="INDX" src="https://github.com/user-attachments/assets/77d17472-9550-45e3-83c1-d9d564713fba" />
@@ -28,4 +28,3 @@ In my repo are front idlers modified to be able to use original screws.
 Wires are managed with original X axis cable chain between bottoms rack and back gantry extrusion (form bottom side). Use Z_Chain_mount to mount chain to buttom extrusion. On back gantry extrusion is chain crewed dirctly to extrusion from buttom side. 
 
 
-<b style="color:red;">!!!!!! Whole design wasn't tested yet, so I'm not sure if it will really work !!!!!!</b>
