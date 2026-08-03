@@ -15,7 +15,7 @@ X end stop is on the X-carriage
 
 <img width="693" height="625" alt="X-carriage" src="https://github.com/user-attachments/assets/3909c795-460f-4523-9931-f1ac81de0b9f" />
 
-X-carriage V2 extend X axis movement. There is also sensorless version. Another alternative is here https://www.printables.com/model/1644881-indx-9mm10mm-belt-mount-for-vorons-standard-belt-p
+There is also sensorless version. Another alternative is here https://www.printables.com/model/1644881-indx-9mm10mm-belt-mount-for-vorons-standard-belt-p
 
 
 Tool holder is mounted on original back extrusion (2020). It is adjustable in Z axis +-1.5 mm. It is possible to mount max. 8 tools with 36 mm distance (without Bondtech part cooling) or 7 tools with 42 mm distance (with Bondtech part cooling). 
