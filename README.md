@@ -1,4 +1,4 @@
-<b style="color:red;"> I already build one printer with this design and did some adjustments. I recommend to use 42 mm tool distance, X-carriage V2 and screwless Y endstop - Z bearing block.  </b>
+<b style="color:red;"> After some feedback and own experience, I designed second version of rear mount for Bondtech INDX on Voron 2.4. I recommend to use 42 mm tool distance.   </b>
 
 This repository contains 3d printable models of parts needed to use Bondtech INDX on Voron 2.4 with rear mount 
 <img width="1140" height="552" alt="INDX" src="https://github.com/user-attachments/assets/77d17472-9550-45e3-83c1-d9d564713fba" />
@@ -6,7 +6,7 @@ This repository contains 3d printable models of parts needed to use Bondtech IND
 This implementation replaces XY joints to be able to mount print head on the rear side of the extrusion.
 <img width="819" height="698" alt="XY joint - Right" src="https://github.com/user-attachments/assets/0b298a4a-ef27-419c-a0d1-2acfd9e5d38f" />
 
-Y end stop switch is moved to front right Z bearing block. There is also screwless version
+Y end stop switch is moved to front right Z bearing block.
 <img width="639" height="573" alt="Z Bearing block - Y endstop" src="https://github.com/user-attachments/assets/4f26a70b-de4a-4a90-b9ca-5c3d14d04d65" />
 
 
