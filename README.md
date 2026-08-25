@@ -8,7 +8,7 @@ This repository contains 3d printable models of parts needed to use Bondtech IND
 
 <img width="1140" height="552" alt="INDX" src="https://github.com/user-attachments/assets/77d17472-9550-45e3-83c1-d9d564713fba" />
 
-This implementation replaces XY joints to be able to mount print head on the rear side of the extrusion.
+This implementation replaces XY joints to be able to mount print head on the rear side of the extrusion. In version 2 there are optimised XY Joint to extend space for X axes. Now there is 352 mm of possible X movement on 350 mm printers.
 <img width="819" height="698" alt="XY joint - Right" src="https://github.com/user-attachments/assets/0b298a4a-ef27-419c-a0d1-2acfd9e5d38f" />
 
 Y end stop switch is moved to front right Z bearing block. The wires are guided to the endstop in the groove of the right gantry extrusion, secured with strips of PET bottle with a width of 11 mm.
@@ -17,7 +17,7 @@ Y end stop switch is moved to front right Z bearing block. The wires are guided 
 <img width="4080" height="1836" alt="IMG_20260803_231318" src="https://github.com/user-attachments/assets/87f6d5b6-b8b7-45d8-acbe-233401d2b6fb" />
 
 
-X end stop is on Eddy Probe Mount on the X-carriage
+X end stop is on Eddy Probe Mount on the X-carriage. Between X-carriage and smart toolhead is 2 mm spacer. It is designed for better cooling of hotend.
 
 <img width="793" height="817" alt="X-carriage" src="https://github.com/user-attachments/assets/4e46090e-1af2-4230-b36e-0facc528ade6" />
 
@@ -34,10 +34,10 @@ It is possible to mount max. 8 tools with 36 mm distance (without Bondtech part 
 
 
 It is necessary to replace front idlers, because X extrusion have to fit between it. I use https://github.com/selliott79/Other-V2-Idlers .
-In my repo are front idlers modified to be able to use original screws.
+In my repo are front idlers modified to be able to use original screws. You can use also https://github.com/clee/VoronBFI BFI .
 
 Wires are managed with original X axis cable chain between bottoms rack and back gantry extrusion (form bottom side). Use Z_Chain_mount to mount chain to buttom extrusion. On back gantry extrusion is chain crewed dirctly to extrusion from buttom side. 
 
-Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer). X is reduced approx 2-3 mm (347 mm), Z without tophead is 300 mm.
+Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer). X is not reduced and Z without tophead is 300 mm.
 
 
