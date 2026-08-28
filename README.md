@@ -25,8 +25,9 @@ X end stop is on Eddy Probe Mount on the X-carriage. Between X-carriage and smar
 Another alternative is here https://www.printables.com/model/1644881-indx-9mm10mm-belt-mount-for-vorons-standard-belt-p
 
 
-Tool holder is mounted on original back extrusion (2020). It is adjustable in Z axis +-1.5 mm. The adjust mechanism is designed to eliminate the need for springs(comapre to the version 1). Instead, it uses the pressure of the wrench and gravity to adjust. When adjusting the tools downwards, lightly press the adjustment screw.
-It is possible to mount max. 8 tools with 36 mm distance (without Bondtech part cooling) or 7 tools with 41 mm distance (with Bondtech part cooling). Bondtech recommend distance 41 mm but surrounding tools are touching part cooling ducts during tool change. For 7 tools it is necessary to have 41 mm distance to fit brtween A/B drives. I recommend to use 4 or 6 tools with 42 mm distance.
+Tool holder is mounted on original back extrusion (2020). It is adjustable in Z axis +-1.5 mm. The adjust mechanism is designed to eliminate the need of springs(comapre to the version 1). Instead, it uses the pressure of the wrench and gravity to adjust. When adjusting the tools downwards, lightly press the adjustment screw.
+On 350 mm printer it is possible to mount max. 8 tools with 36 mm distance (without Bondtech part cooling) or 7 tools with 41 mm distance (with Bondtech part cooling). Bondtech recommend distance 41 mm but surrounding tools are touching part cooling ducts during tool change. For 7 tools it is necessary to have 41 mm distance to fit between A/B drives. I recommend to use 4 or 6 tools with 42 mm distance. 
+There is special version for 6 tools on 300 mm printer. It need some cutout on left side of toolholder.
 <img width="1254" height="788" alt="řez" src="https://github.com/user-attachments/assets/18397f6e-555a-4ad1-80b9-b33b0a358dfe" />
 
 <img width="726" height="346" alt="6x42 mm" src="https://github.com/user-attachments/assets/2cdc21ae-147f-476a-b75c-c9ddb2aa0722" />
@@ -38,6 +39,6 @@ In my repo are front idlers modified to be able to use original screws. You can 
 
 Wires are managed with original X axis cable chain between bottoms rack and back gantry extrusion (form bottom side). Use Z_Chain_mount to mount chain to buttom extrusion. On back gantry extrusion is chain crewed dirctly to extrusion from buttom side. 
 
-Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer). X is not reduced and Z without tophead is 300 mm.
+Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer)- if you are brave you can reduce only 16 mm:-). X is not reduced and Z without tophead is 300 mm.
 
 
