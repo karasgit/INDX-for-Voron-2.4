@@ -41,4 +41,5 @@ Wires are managed with original X axis cable chain between bottoms rack and back
 
 Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer)- if you are brave you can reduce only 16 mm:-). X is not reduced and Z without tophead is 300 mm.
 
+I created quick video guide for printer rebuild https://www.youtube.com/watch?v=topIOL-b3Gw
 
