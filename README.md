@@ -8,7 +8,7 @@ This repository contains 3d printable models of parts needed to use Bondtech IND
 
 <img width="1140" height="552" alt="INDX" src="https://github.com/user-attachments/assets/77d17472-9550-45e3-83c1-d9d564713fba" />
 
-This implementation replaces XY joints to be able to mount print head on the rear side of the extrusion. In version 2 there are optimised XY Joint to extend space for X axes. Now there is 352 mm of possible X movement on 350 mm printers.
+This implementation replaces XY joints to be able to mount print head on the rear side of the extrusion. In version 2 there are optimised XY Joint to extend space for X axis. Now there is 352 mm of possible X movement on 350 mm printers.
 <img width="819" height="698" alt="XY joint - Right" src="https://github.com/user-attachments/assets/0b298a4a-ef27-419c-a0d1-2acfd9e5d38f" />
 
 Y end stop switch is moved to front right Z bearing block. The wires are guided to the endstop in the groove of the right gantry extrusion, secured with strips of PET bottle with a width of 11 mm.
