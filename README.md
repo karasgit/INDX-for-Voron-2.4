@@ -43,3 +43,30 @@ Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer)- if you are b
 
 I created quick video guide for printer rebuild https://www.youtube.com/watch?v=topIOL-b3Gw
 
+<b> Bill Of Material </b><br>
+Here are only additional screws and nuts needed for rebuild of standard Voron 2.4 R2
+
+Front Idlers
+
+M3 Heat Set Insert	2x<br>
+M3x16 BHCS(SHCS)	2x<br>
+M3 T-nut 		2x<br>
+
+XY Joint
+
+M5x10 BHCS		2x<br>
+
+Tool holder
+
+M3x8 SHCS		4x + 2x per tool<br>
+M2 T-nut		4x + 1x per tool<br>
+M3 Heat Set Insert	2x + 1x per tool<br>
+M3x20 SHCS		2x<br>
+
+X-carriage
+
+M3x8 SHCS		2x<br>
+M2x10 Self Tapping	2x<br>
+M3x6 FHCS		4x (can be reused form cable chain mount)<br>
+M3x16 SHCS		4x<br>
+M3 Heat Set Insert	2x<br>
