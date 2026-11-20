@@ -37,7 +37,7 @@ There is special version for 6 tools on 300 mm printer. It need some cutout on l
 It is necessary to replace front idlers, because X extrusion have to fit between it. I use https://github.com/selliott79/Other-V2-Idlers .
 In my repo are front idlers modified to be able to use original screws. You can use also https://github.com/clee/VoronBFI BFI .
 
-Wires are managed with original X axis cable chain between bottoms rack and back gantry extrusion (form bottom side). Use Z_Chain_mount to mount chain to buttom extrusion. On back gantry extrusion is chain crewed dirctly to extrusion from buttom side. 
+Wires are managed with original X axis cable chain between bottoms rack and back gantry extrusion (form bottom side). Use Z_Chain_mount to mount chain to buttom extrusion. If your chain end brackets have the two screw holes one behind the other (in line) instead of side by side, use "INDX - Z_Chain_Mount - inline screws" (holes 8 mm apart). On back gantry extrusion is chain crewed dirctly to extrusion from buttom side. 
 
 Printable area is reduced by 18 mm on Y (332 mm on 350 mm printer)- if you are brave you can reduce only 16 mm:-). X is not reduced and Z without tophead is 300 mm.
 
